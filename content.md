@@ -1,8 +1,9 @@
 ## number guessing game plāns 
 
-### saturs
+### Dokumenta saturs
 
-#### 1. aprakstīt spēli
+#### 1. Spēles apraksts
+intresanta spēle, kas attīsta loģiku 
 
 #### 2. spēles loģika
 
@@ -12,7 +13,6 @@ datorrs uzmin skaitli no 1 līdz 100. Tālāk piedāvā spēlētājam uzminēt t
 spēles loģika ir apsrakstita šajā kodā
 
 '''py
-
 import random
 
 repeat = True
@@ -46,7 +46,6 @@ while repeat:
         print("Paldies par spēli! Bye, bye!")
     else:
         repeat = False
-        print("Paldies par spēli!  Bye, bye!")
 
 
 #### 3. un t.t
