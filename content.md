@@ -10,9 +10,8 @@ intresanta spēle, kas attīsta loģiku
 
 datorrs uzmin skaitli no 1 līdz 100. Tālāk piedāvā spēlētājam uzminēt to skaitli, utt.
 
-spēles loģika ir apsrakstita šajā kodā
+spēles loģika ir apsrakstita šajā kodā:
 
-'''py
 
 import random
 
